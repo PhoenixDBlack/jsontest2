@@ -1,0 +1,24 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Electron App testen",
+      "body": "Austesten der Sinnhaftigkeit von Anwendungsentwicklung mit Electron",
+      "clientName": "Tim Weidner",
+      "clientEmail": "timw@mim-lohr.local",
+      "doneBy": "2018-12-10",
+      "done": 0,
+      "UserID": 0
+    },
+    {
+      "id": 1,
+      "title": "Mittagspause",
+      "body": "Mittagspause um 12:30 im Besprechungsraum",
+      "clientName": "Louis Halbritter",
+      "clientEmail": "lh@min.gmbh",
+      "doneBy": "2018-12-07",
+      "done": 0,
+      "UserID": 0
+    }
+  ]
+}
